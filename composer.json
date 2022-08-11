@@ -1,0 +1,17 @@
+{
+    "name": "pavlo-dot-dev/homoglyph-attack-generator",
+    "description": "Homoglyph Attack Generator",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "PavloDotDev\\HomoglyphAttackGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavlo Developer",
+            "email": "pavlo.dev@icloud.com"
+        }
+    ],
+    "require": {}
+}
